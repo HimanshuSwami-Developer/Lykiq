@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537249869438",
+    "project_id": "lykiq-f1c79",
+    "storage_bucket": "lykiq-f1c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537249869438:android:57962348cab143765d322f",
+        "android_client_info": {
+          "package_name": "com.example.lykiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdvvWRtBFsd0VqkmzgGF18jhUNXmo_-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
